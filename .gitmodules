@@ -1,0 +1,3 @@
+[submodule "Core/Library/DPS310"]
+	path = Core/Library/DPS310
+	url = git@github.com:NOKOLat/DPS310.git

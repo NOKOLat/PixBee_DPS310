@@ -9,7 +9,7 @@
 /* Pre-Processor Begin */
 #include <string>
 
-#include "DPS310_HAL_I2C.h"
+#include "DPS310/DPS310_HAL_I2C.h"
 
 #include <usart.h>
 #include <gpio.h>
